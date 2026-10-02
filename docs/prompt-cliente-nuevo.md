@@ -157,6 +157,9 @@ Automatizar la creación del entorno, conectar la base de datos **Convex** y des
 - [ ] Desplegar en Cloudflare.
 - [ ] Comprobar que el dueño puede editar los ítems del menú.
 
+> [!NOTE]
+> **Información:** TERMINAL WEB.
+
 ### 💻 Preparar el proyecto
 
 ~~~bash
@@ -235,6 +238,9 @@ Producir de forma masiva y en paralelo las imágenes de los productos del menú 
 - [ ] Esperar la selección del cliente.
 - [ ] Generar posteriormente todas las imágenes con el estilo elegido.
 
+> [!NOTE]
+> **Información:** TERMINAL NUEVA (IMAGENES) "Desde la terminal de la web, arriba le daremos nueva terminal, lo nombramos "NOMBRE EMPRESA (IMAGENES)".
+
 🔗 **Plataforma:** [Kie AI](https://kie.ai/)
 
 ### 📝 Prompt de referencia
@@ -277,6 +283,9 @@ Definir el estilo gráfico definitivo con el cliente **antes de lanzar la produc
 4. [ ] Comunicar la selección al agente.
 5. [ ] Aplicar el patrón elegido al resto de productos.
 
+> [!NOTE]
+> **Información:** TERMINAL NOMBRE EMPRESA (IMAGENES).
+
 💡 Claude puede nombrar las muestras utilizando prefijos por letras.
 
 | Archivo | Uso |
@@ -313,6 +322,9 @@ Integrar creativamente las fotos originales del local y dotar a la landing de fo
 - [ ] Mantener la legibilidad del texto.
 - [ ] Valorar el uso de una fotografía original como fondo.
 - [ ] Comprobar Desktop y móvil.
+
+> [!NOTE]
+> **Información:** TERMINAL WEB.
 
 ### 📝 Prompt de referencia
 
