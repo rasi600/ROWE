@@ -80,15 +80,13 @@ Ok, ahora quiero hacer lo mismo que hicimos para el otro negocio, pero para este
 
 (Ejemplo: un nuevo restaurante italiano tradicional).
 
-Solo que para este no vamos a hacer lo de generar las imágenes con IA. Vamos a dejarlo simple: [RELLENAR: Qué puede editar el usuario/cliente]
-
-(Ejemplo: solo puede editar el menú), o sea, no te lo sobrecargues.
+Solo que para este no vamos a hacer lo de generar las imágenes con IA. Vamos a dejarlo simple: solo puede editar el menú, o sea, no te lo sobrecargues.
 
 Entonces, dame las dos cosas: el brief y el prompt para el diseñador. Para este último, por favor, indícale al diseñador que enfoque su trabajo desde una perspectiva creativa, buscando un diseño original, de alta calidad y con una identidad propia, evitando por completo un resultado genérico, con una estética orientada a transmitir [RELLENAR: Estilo o vibra deseada]
 
 (Ejemplo: la vibra tradicional de un típico restaurante italiano).
 
-Para este proyecto, el alcance incluye tanto una landing page completa como un menú digital interactivo. Por lo tanto, asegúrate de reflejar claramente en el brief y en las instrucciones que se trata de un sitio web completo compuesto por [RELLENAR: Estructura específica del sitio, ej: una landing y, aparte, el menú digital].
+Para este proyecto, el alcance incluye tanto una landing page completa como un menú digital interactivo. Por lo tanto, asegúrate de reflejar claramente en el brief y en las instrucciones que se trata de un sitio web completo compuesto por una landing y, aparte, el menú digital.
 
 Además, ten muy en cuenta la estructura técnica de visualización: para el menú digital, los mockups de diseño no deben limitarse únicamente a dispositivos móviles; el proceso debe contemplar el diseño inicial para Desktop (escritorio) y, a partir de ahí, adaptarlo de forma responsiva para móvil.
 ~~~
