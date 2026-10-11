@@ -118,7 +118,8 @@ Obtener los lineamientos visuales y prototipos iniciales adaptados tanto a **Des
 > **Orden obligatorio para el menú digital:** `Desktop → adaptación responsive → móvil`. No plantees el menú únicamente como un diseño móvil.
 
 ### 📝 Prompt de referencia
-AQUI PEGAS EL PROMPT QUE TE HA DADO (ES DECIR EL RESULTADO DE LA RESPUESTA DE CLAUDE NORMAL LO PEGAS AQUI.) EN ESTE PROMOPT + LAS IMAGENES DE NUEVO DEL ANTERIOR PASO
+AQUI **PEGAS** EL PROMPT QUE TE HA DADO (ES DECIR EL RESULTADO DE LA RESPUESTA DE **CLAUDE NORMAL** DEL **ANTERIOR PASO** LO PEGAS AQUI.) EN ESTE PROMOPT + LAS IMAGENES DE NUEVO DEL **ANTERIOR PASO**
+ENTONCES **PEGAS** EL PROMPT ANTERIOR PASO + ESTE DE AQUI + LAS FOTOS DEL ANTERIOR PASO
 ~~~text
 Ok, por favor, procede a crear el diseño para tanto la Landing Page como para el Admin Panel como para el Menu Digital
 ~~~
