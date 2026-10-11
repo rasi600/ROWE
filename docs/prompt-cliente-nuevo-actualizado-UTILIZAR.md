@@ -90,7 +90,7 @@ Para este proyecto, el alcance incluye tanto una landing page completa como un m
 
 Además, ten muy en cuenta la estructura técnica de visualización: para el menú digital, los mockups de diseño no deben limitarse únicamente a dispositivos móviles; el proceso debe contemplar el diseño inicial para Desktop (escritorio) y, a partir de ahí, adaptarlo de forma responsiva para móvil.
 ~~~
-
+PEGALE EL PROMPT ESTE + LAS IMAGENES (A CLAUDE NORMAL)
 > [!IMPORTANT]
 > El resultado de este paso debe dejar perfectamente claro **qué se va a construir**, **qué podrá editar el cliente** y **qué identidad visual debe transmitir**.
 
