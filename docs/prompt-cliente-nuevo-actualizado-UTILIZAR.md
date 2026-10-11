@@ -118,23 +118,9 @@ Obtener los lineamientos visuales y prototipos iniciales adaptados tanto a **Des
 > **Orden obligatorio para el menú digital:** `Desktop → adaptación responsive → móvil`. No plantees el menú únicamente como un diseño móvil.
 
 ### 📝 Prompt de referencia
-
+AQUI PEGAS EL PROMPT QUE TE HA DADO (ES DECIR EL RESULTADO DE LA RESPUESTA DE CLAUDE NORMAL LO PEGAS AQUI.) EN ESTE PROMOPT + LAS IMAGENES DE NUEVO DEL ANTERIOR PASO
 ~~~text
-Ok, ahora quiero hacer lo mismo que hicimos para el otro negocio, pero para este nuevo: [RELLENAR: Nombre del negocio / Tipo de establecimiento]
-
-(Ejemplo: un nuevo restaurante italiano tradicional).
-
-Solo que para este no vamos a hacer lo de generar las imágenes con IA. Vamos a dejarlo simple: [RELLENAR: Qué puede editar el usuario/cliente]
-
-(Ejemplo: solo puede editar el menú), o sea, no te lo sobrecargues.
-
-Entonces, dame las dos cosas: el brief y el prompt para el diseñador. Para este último, por favor, indícale al diseñador que enfoque su trabajo desde una perspectiva creativa, buscando un diseño original, de alta calidad y con una identidad propia, evitando por completo un resultado genérico, con una estética orientada a transmitir [RELLENAR: Estilo o vibra deseada]
-
-(Ejemplo: la vibra tradicional de un típico restaurante italiano).
-
-Para este proyecto, el alcance incluye tanto una landing page completa como un menú digital interactivo. Por lo tanto, asegúrate de reflejar claramente en el brief y en las instrucciones que se trata de un sitio web completo compuesto por [RELLENAR: Estructura específica del sitio, ej: una landing y, aparte, el menú digital].
-
-Además, ten muy en cuenta la estructura técnica de visualización: para el menú digital, los mockups de diseño no deben limitarse únicamente a dispositivos móviles; el proceso debe contemplar el diseño inicial para Desktop (escritorio) y, a partir de ahí, adaptarlo de forma responsiva para móvil.
+Ok, por favor, procede a crear el diseño para tanto la Landing Page como para el Admin Panel como para el Menu Digital
 ~~~
 
 ### ⚠️ Requisito de diseño responsive
